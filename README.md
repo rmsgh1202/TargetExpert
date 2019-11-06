@@ -15,6 +15,8 @@
 ### main.c 
 ![8](https://user-images.githubusercontent.com/54826629/68265181-b75e7b80-008e-11ea-8077-7afe45e9a97f.JPG)
 ![9](https://user-images.githubusercontent.com/54826629/68265227-d6f5a400-008e-11ea-9839-e0e49ea0c06b.JPG)
-### 
+### CMakeLists.txt
+![11](https://user-images.githubusercontent.com/54826629/68265668-1375cf80-0090-11ea-88ed-b4503160aa1d.JPG)
+![10](https://user-images.githubusercontent.com/54826629/68265669-1375cf80-0090-11ea-8d26-1a942fe9a249.JPG)
 ## 7.아두이노를 컴퓨터와 연결하고 장치 -> USB -> 아두이노를 체크한다.
 ## 8.리소스를 짜서 코드를 추가해서 실행하면 끝.
